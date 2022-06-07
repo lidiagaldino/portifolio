@@ -28,7 +28,7 @@
     justify-content: center;
 } 
 
-@media(max-width: 898px){
+/* @media(max-width: 898px){
     #contato{
         padding-top: 15vh;
     }
@@ -43,4 +43,4 @@
     #contato{
         padding-top: 90vh;
     }
-}
+} */
