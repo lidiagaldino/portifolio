@@ -35,9 +35,10 @@
 }
 @media(max-width: 590px){
     #contato{
-        padding-top: 50vh;
+        padding-top: 60vh;
     }
 }
+
 @media(max-width: 375px){
     #contato{
         padding-top: 90vh;
