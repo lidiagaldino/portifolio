@@ -1,0 +1,49 @@
+#skills{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.skills{
+    padding-top: 100px;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+i{
+    font-size: 6rem;
+    color: white;
+}
+
+#sk{
+    width: 90vw;
+}
+
+#js, #java, #css, #html{
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+    gap: 10px;
+}
+
+.language{
+    font-size: 1.5rem;
+    color: white;
+    font-family: 'inika';
+}
+
+.lab{
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+
+#card01, #card02, #card04{
+    background-color: rgba(209, 193, 255, 0.747);
+}
+
+
+
+
